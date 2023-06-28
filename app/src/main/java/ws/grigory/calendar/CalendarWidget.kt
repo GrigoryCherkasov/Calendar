@@ -239,6 +239,7 @@ open class CalendarWidget : AppWidgetProvider() {
                     Intent.ACTION_DATE_CHANGED == action ||
                     Intent.ACTION_TIME_CHANGED == action ||
                     Intent.ACTION_LOCALE_CHANGED == action ||
+                    Intent.ACTION_PROVIDER_CHANGED == action ||
                     intent.extras != null && intent.extras!!.getBoolean(UPDATE, false)
 
             update = !reset && AppWidgetManager.ACTION_APPWIDGET_UPDATE == action
