@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/Row">
+
+    <FrameLayout
+        android:id="@+id/c8"
+        style="@style/RegularCell">
+
+        <ImageView
+            android:id="@+id/i8"
+            style="@style/CellImage"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/f8"
+            style="@style/CellText" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/c9"
+        style="@style/RegularCell">
+
+        <ImageView
+            android:id="@+id/i9"
+            style="@style/CellImage"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/f9"
+            style="@style/CellText" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/c10"
+        style="@style/RegularCell">
+
+        <ImageView
+            android:id="@+id/i10"
+            style="@style/CellImage"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/f10"
+            style="@style/CellText" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/c11"
+        style="@style/RegularCell">
+
+        <ImageView
+            android:id="@+id/i11"
+            style="@style/CellImage"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/f11"
+            style="@style/CellText" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/c12"
+        style="@style/RegularCell">
+
+        <ImageView
+            android:id="@+id/i12"
+            style="@style/CellImage"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/f12"
+            style="@style/CellText" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/c13"
+        style="@style/WeCell">
+
+        <ImageView
+            android:id="@+id/i13"
+            style="@style/CellImage"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/f13"
+            style="@style/CellText" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/c14"
+        style="@style/WeCell">
+
+        <ImageView
+            android:id="@+id/i14"
+            style="@style/CellImage"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/f14"
+            style="@style/CellText" />
+    </FrameLayout>
+</LinearLayout>

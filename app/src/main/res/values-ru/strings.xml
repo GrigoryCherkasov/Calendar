@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Календарь</string>
+    <string name="title_activity_settings">Настройки</string>
+
+    <string name="mo">пн</string>
+    <string name="tu">вт</string>
+    <string name="we">ср</string>
+    <string name="th">чт</string>
+    <string name="fr">пт</string>
+    <string name="sa">сб</string>
+    <string name="su">вс</string>
+
+    <string name="year">Год</string>
+
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отменить</string>
+    <string name="loading">Загружаю…</string>
+
+    <string name="incorrect_year">Неверно введен год</string>
+
+    <string name="add">Добавить</string>
+
+</resources>

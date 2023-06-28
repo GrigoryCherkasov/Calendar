@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke
+        android:width="0.5dp"
+        android:color="@color/cell_line" />
+</shape-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:right="-1dp"
+        android:bottom="-1dp">
+        <shape>
+            <stroke
+                android:width="0.5dp"
+                android:color="@color/cell_line" />
+        </shape>
+    </item>
+</layer-list>

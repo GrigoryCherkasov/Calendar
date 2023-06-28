@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <vector
+            android:width="17dp"
+            android:height="17dp"
+            android:viewportWidth="17"
+            android:viewportHeight="17">
+            <group>
+                <path
+                    android:fillColor="@color/cell_line"
+                    android:pathData="M 1,7 L 1,8.5 8.5,17 16,8.5 16,7 9,15 9,1 8,1 8,15 z" />
+            </group>
+        </vector>
+    </item>
+</layer-list>
